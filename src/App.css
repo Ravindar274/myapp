@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+.myNavBarDark{
+  background-color: #282c34 !important;
+}
+
+.myNavBarDark a{
+  color: #fafcff !important;
+}
+
+.myNavBarLight{
+  background-color: aliceblue !important;
+}
+
